@@ -1,14 +1,12 @@
 # Tasks
 
-Tasks that each participants in the StudentsDataHack 2021 chooses from.
+# StudentsDataHack 2021 is officially on!
 
-You have to declare only one task out of three - in the Google Forms that has been sent to you in the mail.
+If you missed the inauguration, here's the quick recap!
 
-You have to make up your mind based on the task description, data will be uploaded tomorrow when the Hackathon starts.
-
-You can freely change your choice until 23.59 23th April!
-
-If you have any questions, please do write a message to us on our Fanpgae on FB!
-
+- Send us your solution until 23.59 25th April on email address: studentsdatahack@skni.pl. Code should be commented and when it comes to the visualisation task you have to send visualisation in whatever form you think is best to present the insights of the data (PowerPoint presentation, Power Bi / Tableau dashboard, dashboards created manually, or loose images)
+- If you have any questions regarding the organisation of the event, please write to https://www.facebook.com/Studentsdatahack-102825025233118 in private message
+- You have to do tasks that you chose in the Google Form, and solve them individually
+- Datasets with prefix "wiz" are designed for visualisation task, datasets with prefix "Predykcyjne" for predictive task. You also 
 
 
